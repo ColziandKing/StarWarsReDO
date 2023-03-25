@@ -1,4 +1,6 @@
-# Star Wars Pack
+# Star Wars ReDo Pack
+
+Return of the old SW Unciv mod for future versions
 
 Credit List:
 
