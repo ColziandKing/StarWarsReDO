@@ -54,7 +54,12 @@
         "name": "Resignated Talent",
         "type": "Pantheon",
         "uniques": ["[-3 Faith, +8 Gold] from every [Force Temple]"]
-    }
+    },
+	{
+        "name": "The Force Provides",
+        "type": "Pantheon",
+        "uniques": ["[+1 Science, +1 Food, +1 Gold, +1 Production, +1 Culture, +1 Faith, +1 Happiness] from [All] tiles [in all cities]"
+    },
 	
 	///////////////////////////////////////// Founder beliefs /////////////////////////////////////////
     {
@@ -97,6 +102,11 @@
         "type": "Founder",
         "uniques": ["[+1 Faith] from every [Command Center]","[+1 Faith] from every [Laboratory]","[+1 Faith] from every [Outpost]"]
     },
+	{
+        "name": "Interforce Data",
+        "type": "Founder",
+        "uniques": ["When spreading religion to a city, gain [10] times the amount of followers of other religions as [Science]"]
+    }
 	{
         "name": "Heroes Arise",
         "type": "Founder",
@@ -161,6 +171,11 @@
         "uniques": ["[+4 Faith] from every specialist [in this city]"]
     },
 	{
+        "name": "Holy Warriors",
+        "type": "Follower",
+        "uniques": ["May buy [{Military} {Land}] units with [Faith] for [2] times their normal Production cost <before the [Level 4]>"]
+    },
+	{
         "name": "Diplomatic Guidance",
         "type": "Follower",
         "uniques": ["[+2 Gold] from all [Culture] buildings"]
@@ -190,6 +205,11 @@
         "name": "Force Rage",
         "type": "Enhancer",
         "uniques": ["All [Jedi] units receive the [Force Rage] promotion"]
+    },
+	{
+        "name": "Whisperers of Unity",
+        "type": "Enhancer",
+        "uniques": ["[+34]% Natural religion spread [in all cities]", "[+34]% Natural religion spread [in all cities] <after discovering [Temples]>"]
     },
 	{
         "name": "Force Barrier",
