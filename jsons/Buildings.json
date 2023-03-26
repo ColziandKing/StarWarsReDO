@@ -507,7 +507,7 @@
 		"requiredResource": "Ore",
 		"cityStrength": 12,
 		"uniques": ["Destroyed when the city is captured",
-		"Only available <in cities without a [Advanced Wall]>"]
+		"Only available <cities without a [Advanced Wall]>"]
 	},
 	{
 		"name": "Advanced Walls",
