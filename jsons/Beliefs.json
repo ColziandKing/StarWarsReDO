@@ -58,7 +58,7 @@
 	{
         "name": "The Force Provides",
         "type": "Pantheon",
-        "uniques": ["[+1 Science, +1 Food, +1 Gold, +1 Production, +1 Culture, +1 Faith, +1 Happiness] from [All] tiles [in all cities]"
+        "uniques": ["[+1 Science, +1 Food, +1 Gold, +1 Production, +1 Culture, +1 Faith, +1 Happiness] from [All] tiles [in all cities]"]
     },
 	
 	///////////////////////////////////////// Founder beliefs /////////////////////////////////////////
