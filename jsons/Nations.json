@@ -264,57 +264,57 @@
 		"uniques": ["Gain a free [Free Nova] [in capital]","Gain a free [Sith Shrine] [in all cities]","[+1 Faith] from every specialist [in all cities]"],
 		"cities": ["Aclidraut Camp","Wechell Camp","Aklal Camp","Anell Camp","Xolox Camp","Vorall Camp","Sturm Camp","Bynall Camp","Eball Camp","Vallon Camp","Ifdrill Camp","Morill Camp"]
 	},
-	//City-States/Not Implemented
+	//City-States
 	{
-		"name": "Quebec City",
-		"adjective": ["Québécois"],
+		"name": "Ryloth",
+		"adjective": ["Twi'lek"],
 		"cityStateType": "Cultured",
 
-		"declaringWar": "You leave us no choice. War it must be.",
+		"declaringWar": "How long before I am fighting you.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We were too weak to protect ourselves...",
+		"defeated": "Another armed occupation is not a free Ryloth...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [51,102,0],
-		"cities": ["Quebec City"]
+		"cities": ["Ryloth"]
 	},
 
 	{
-		"name": "Cape Town",
-		"adjective": ["Cape Town"],
+		"name": "Dac",
+		"adjective": ["Mon Calamari"],
 		"cityStateType": "Maritime",
 
 		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
+		"attacked": "We forced the Empire off our world once. They fought with blasters and fighters, destroying cities at will. We fought with whatever we had—kitchen utensils, industrial tools, our bare hands.",
 		"defeated": "I have failed. May you, at least, know compassion towards our people.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,153,153],
-		"cities": ["Cape Town"]
+		"cities": ["Dac"]
 	},
 
 	{
-		"name": "Zanzibar",
-		"adjective": ["Zanzibar"],
+		"name": "Neimoidia",
+		"adjective": ["Neimoidian"],
 		"cityStateType": "Mercantile",
 
-		"declaringWar": "You leave us no choice. War it must be.",
+		"declaringWar": "All I know is I never risk my own skin if I don't have to.",
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,153,255],
-		"cities": ["Zanzibar"]
+		"cities": ["Neimoidia"]
 	},
 
 	{
-		"name": "Almaty",
-		"adjective": ["Almaty"],
+		"name": "Mandalore",
+		"adjective": ["Mandalorian"],
 		"cityStateType": "Militaristic",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "How could we fall to the likes of you?!",
+		"defeated": "Every Mandalorian can trace their roots back to this planet.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [152,0,241],
-		"cities": ["Almaty"]
+		"cities": ["Mandalore"]
 	},
 	//Barbarians
 	{
