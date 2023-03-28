@@ -956,6 +956,13 @@ NationIcons/Smugglers
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Colziand
+  rotate: false
+  xy: 544, 424
+  size: 99, 100
+  orig: 99, 100
+  offset: 0, 0
+  index: -1
 PolicyIcons/Academics
   rotate: false
   xy: 1776, 1748
@@ -1398,13 +1405,6 @@ ReligionIcons/The Current
   offset: 0, 0
   index: -1
 ReligionIcons/The Force
-  rotate: false
-  xy: 544, 424
-  size: 99, 100
-  orig: 99, 100
-  offset: 0, 0
-  index: -1
-NationIcons/The Jedi Order
   rotate: false
   xy: 544, 424
   size: 99, 100
